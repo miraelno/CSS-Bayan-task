@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(243, 229, 212);
+}
+
+.container {
+  margin: 20px 90px;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.ul {
+  list-style: none;
+}
+
+.ul-item {
+  margin-bottom: 20px;
+}
+
+.li-img {
+  display: block;
+  margin: 0 auto;
+}
